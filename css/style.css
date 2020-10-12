@@ -3,7 +3,7 @@
 
 html {
   font-size: 1rem;
-  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
   background-color: #eaeaea;
 }
 
@@ -94,7 +94,7 @@ p {
 
 .location {
   font-size: 1rem;
-  font-family: 'Merriweather Sans', sans-serif;
+  font-family: 'Roboto', sans-serif;
   text-transform: uppercase;
   line-height: 1.5;
 }
