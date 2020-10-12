@@ -26,7 +26,7 @@ main {
   display:grid;
   grid-template-columns: 50% 50% ;
   grid-auto-rows:min-content;
-  grid-gap:2rem;
+  grid-gap:6rem;
   width: 60vw;
   margin: 0 auto;
 }
