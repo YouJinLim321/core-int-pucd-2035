@@ -73,7 +73,7 @@ h2 {
   font-size:3rem;
 }
 h3 {
-  font-size:2rem;
+  font-size:1rem;
   font-weight:400;
 
 }
@@ -91,20 +91,20 @@ li {
 
 p {
   font-family: 'Loved by the King', cursive;
-  font-size: 2rem;
+  font-size: 1rem;
   line-height: 1.5;
   margin-bottom:1rem;
 }
 
 .location {
-  font-size: 2rem;
+  font-size: 1rem;
   font-family: 'Loved by the King', cursive;
   text-transform: uppercase;
   line-height: 1.5;
 }
 
 .pull-quote {
-  font-size: 3rem;
+  font-size: 1rem;
   font-family: 'Loved by the King', cursive;
   line-height: 1.5;
   font-weight:400;
