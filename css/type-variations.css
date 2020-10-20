@@ -34,15 +34,15 @@ main {
 
 
 .intro-block {
-  grid-column:4 / 11;
+  grid-column:1 / 2;
 }
 
 .article {
-  grid-column:3 / 11;
+  grid-column:1 / 2;
 }
 
 .projects {
-  grid-column:8 / 11;
+  grid-column:1 / 2;
 }
 
 .item {
@@ -65,25 +65,25 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
-  font-size:4.7rem;
+  font-size:4rem;
   font-weight:700;
   font-style: italic;
 }
 h2 {
-  font-size:3rem;
+  font-size:4rem;
 }
 h3 {
-  font-size:2rem;
+  font-size:4rem;
   font-weight:400;
 
 }
 h4 {
-  font-size:1rem;
+  font-size:4rem;
 }
 
 
 li {
-  font-size: 1.5rem;
+  font-size: 4rem;
   font-family: 'Loved by the King', cursive;
   line-height: 1.5;
   padding: .5rem 0;
@@ -91,20 +91,20 @@ li {
 
 p {
   font-family: 'Loved by the King', cursive;
-  font-size: 1rem;
+  font-size: 4rem;
   line-height: 1.5;
   margin-bottom:1rem;
 }
 
 .location {
-  font-size: 1rem;
+  font-size: 4rem;
   font-family: 'Loved by the King', cursive;
   text-transform: uppercase;
   line-height: 1.5;
 }
 
 .pull-quote {
-  font-size: 1rem;
+  font-size: 4rem;
   font-family: 'Loved by the King', cursive;
   line-height: 1.5;
   font-weight:400;
@@ -117,7 +117,7 @@ img {
 }
 
 figcaption {
-  font-size: .875rem;
+  font-size: 4rem;
   font-family: 'Ma Shan Zheng', cursive;
   padding-top: 1rem;
 }
