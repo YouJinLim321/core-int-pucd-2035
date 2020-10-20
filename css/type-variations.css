@@ -34,11 +34,11 @@ main {
 
 
 .intro-block {
-  grid-column:1 / 2;
+  grid-column:3 / 5;
 }
 
 .article {
-  grid-column:1 / 2;
+  grid-column:1 / 5;
 }
 
 .projects {
@@ -97,14 +97,14 @@ p {
 }
 
 .location {
-  font-size: 4rem;
+  font-size: 2rem;
   font-family: 'Loved by the King', cursive;
   text-transform: uppercase;
   line-height: 1.5;
 }
 
 .pull-quote {
-  font-size: 4rem;
+  font-size: 1rem;
   font-family: 'Loved by the King', cursive;
   line-height: 1.5;
   font-weight:400;
