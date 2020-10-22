@@ -61,11 +61,11 @@ main {
 
 h1, h2, h3, h4, h5 {
   font-family: 'Loved by the King', cursive;
-  margin-bottom:1rem;
+  margin-bottom:4rem;
 }
 
 h1 {
-  font-size:1rem;
+  font-size:4rem;
   font-weight:700;
   font-style: italic;
 }
@@ -91,7 +91,7 @@ li {
 
 p {
   font-family: 'Loved by the King', cursive;
-  font-size: 1rem;
+  font-size: 4rem;
   line-height: 1.5;
   margin-bottom:1rem;
 }
