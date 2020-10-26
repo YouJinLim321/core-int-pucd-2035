@@ -42,7 +42,7 @@ main {
 }
 
 .projects {
-  grid-column:1 / 2;
+  grid-column:4 / 5;
 }
 
 .item {
@@ -61,16 +61,16 @@ main {
 
 h1, h2, h3, h4, h5 {
   font-family: 'Loved by the King', cursive;
-  margin-bottom:4rem;
+  margin-bottom:2rem;
 }
 
 h1 {
-  font-size:4rem;
+  font-size:2rem;
   font-weight:700;
   font-style: italic;
 }
 h2 {
-  font-size:4rem;
+  font-size:3rem;
 }
 h3 {
   font-size:2rem;
