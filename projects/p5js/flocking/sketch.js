@@ -7,7 +7,7 @@
 let boids = [];
 
 function setup() {
-  createCanvas(720, 400);
+  createCanvas(720, 1000);
 
   // Add an initial set of boids into the system
   for (let i = 0; i < 100; i++) {
@@ -164,7 +164,7 @@ class Boid {
   // Cohesion
   // For the average location (i.e. center) of all nearby boids, calculate steering vector towards that location
   cohesion(boids) {
-    let neighbordist = 50;
+    let neighbordist = 80;
     let sum = createVector(0, 0); // Start with empty vector to accumulate all locations
     let count = 0;
     for (let i = 0; i < boids.length; i++) {

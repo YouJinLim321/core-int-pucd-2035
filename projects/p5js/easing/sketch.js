@@ -12,12 +12,12 @@ let y = 1;
 let easing = 0.05;
 
 function setup() {
-  createCanvas(720, 400);
+  createCanvas(1200, 720);
   noStroke();
 }
 
 function draw() {
-  background(237, 34, 93);
+  background(250, 0, 0);
   let targetX = mouseX;
   let dx = targetX - x;
   x += dx * easing;
