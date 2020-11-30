@@ -4,22 +4,22 @@
 html {
   font-size: 1rem;
   font-family: 'Loved by the King', cursive;
-  background-color: #fff;
+  background-color: #000000;
 }
 
 body {
   padding:1rem 0;
-  color:#000;
+  color:#FFFFFF;
 }
 
 a {
   text-decoration: underline;
-  color: #ae7f3d;
+  color: #FFFFFF;
 }
 
 a:hover {
   text-decoration: none;
-  color: #ae7f3d;
+  color: #FFFFFF;
 }
 
 main {
@@ -46,13 +46,13 @@ main {
 
 .item {
   grid-column:1;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #FFFFFF;
   padding: 1rem 0;
 }
 
 .definition {
   grid-column:2;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #FFFFFF;
   padding: 1rem 0;
 }
 
