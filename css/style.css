@@ -101,7 +101,7 @@ p {
 
 img {
   display: block;
-  margin: 0 auto;
+  _margin: 0 auto;
 }
 
 figcaption {
