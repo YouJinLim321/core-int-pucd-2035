@@ -166,4 +166,7 @@ h5 {
  
 }
 
-
+.menu{margin: 0;padding: 0;width: 100%}
+.menu li{float: left; width: 20%; text-align: center;padding: 10px;font-size: 14px;font-weight: bold;}
+.menu li a{color: #000; text-decoration: none;}
+.menu li a:hover{color: red;}
