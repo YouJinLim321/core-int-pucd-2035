@@ -16,6 +16,7 @@ body {
   color:#fff;
   background: #fff;
 
+
 }
 
     main {
@@ -32,6 +33,7 @@ body {
   grid-gap:0rem;
   padding:0;
   background:#f44336;
+  color: #000;
 }
 
 
