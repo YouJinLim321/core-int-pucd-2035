@@ -8,13 +8,13 @@
 html {
   font-size: .75rem;
   font-family: 'Work Sans', serif;
-  background: #fff;
+  background: #000;
 }
 
 body {
   padding:0;
-  color:#fff;
-  background: #fff;
+  color:#000;
+  background: #000;
 
 
 }
@@ -33,7 +33,7 @@ body {
   grid-gap:0rem;
   padding:0;
   background:#f44336;
-  color: #000;
+  color: #fff;
 }
 
 
