@@ -2,13 +2,13 @@
 
 
 html {
-  font-size: 4rem;
+  font-size: 2rem;
   font-family: 'Loved by the King', cursive;
   background-color: #fff;
 }
 
 body {
-  padding:3rem 0;
+  padding:1rem 0;
   color:#000;
 }
 
@@ -61,29 +61,29 @@ main {
 
 h1, h2, h3, h4, h5 {
   font-family: 'Loved by the King', cursive;
-  margin-bottom:4rem;
+  margin-bottom:3rem;
 }
 
 h1 {
-  font-size:4rem;
+  font-size:2rem;
   font-weight:700;
   font-style: italic;
 }
 h2 {
-  font-size:4rem;
+  font-size:2rem;
 }
 h3 {
-  font-size:4rem;
+  font-size:2rem;
   font-weight:400;
 
 }
 h4 {
-  font-size:4rem;
+  font-size:2rem;
 }
 
 
 li {
-  font-size: 4rem;
+  font-size: 2rem;
   font-family: 'Loved by the King', cursive;
   line-height: 1.5;
   padding: .5rem 0;
@@ -91,7 +91,7 @@ li {
 
 p {
   font-family: 'Loved by the King', cursive;
-  font-size: 4rem;
+  font-size: 2rem;
   line-height: 1.5;
   margin-bottom:1rem;
 }
@@ -117,7 +117,7 @@ img {
 }
 
 figcaption {
-  font-size: 4rem;
+  font-size: 2rem;
   font-family: 'Ma Shan Zheng', cursive;
   padding-top: 1rem;
 }
