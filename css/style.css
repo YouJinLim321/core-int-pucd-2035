@@ -25,18 +25,21 @@ a:hover {
 main {
   display:grid;
   grid-template-columns: 50% 50% ;
-  grid-auto-rows:min-content;
+  grid-template-rows:min-content;
   grid-gap:2rem 0;
-  width: 100vw;
+  width: 90vw;
   margin: 0 auto;
 }
 
 .intro-block {
   grid-column:1 / 2;
+  grid-row:1/2;
 }
 
-.statement {
-  grid-column:1 / 2;
+.links {
+  grid-column:2 / 3;
+  grid-row:1 / 2;
+  text-align:right;
 }
 
 .projects {
