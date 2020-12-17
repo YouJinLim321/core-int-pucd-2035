@@ -13,8 +13,8 @@ html {
 
 body {
   padding:0;
-  color:#FFFFFF;
-  background:#FFFFFF;
+  color:#ffffff;
+  background:#ffffff;
 
 
 }
@@ -32,7 +32,7 @@ body {
   grid-auto-rows: min-content;
   grid-gap:0rem;
   padding:0;
-  background:#ff69b4 ;
+  background:#000000 ;
   color: #000;
 }
 
