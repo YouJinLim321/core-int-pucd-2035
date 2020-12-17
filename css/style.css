@@ -3,7 +3,7 @@
 
 html {
   font-size: 1rem;
-  font-family: font-family: 'Bungee', cursive;
+  font-family: 'Bungee', cursive;
   background-color: #ff69b4;
 }
 
@@ -58,7 +58,7 @@ main {
 
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Clicker Script', cursive;
+  font-family: 'Bungee', cursive;
   margin-bottom:2rem;
 }
 
@@ -81,7 +81,7 @@ h4 {
 
 li {
   font-size: 2rem;
-  font-family: 'Clicker Script', cursive;
+  font-family: 'Bungee', cursive;
   line-height: 1.5;
   padding: .5rem 0;
 }
@@ -94,7 +94,7 @@ p {
 
 .location {
   font-size: 2rem;
-  font-family: 'Clicker Script', cursive;
+  font-family: 'Bungee', cursive;
   text-transform: uppercase;
   line-height: 1.5;
 }
@@ -106,6 +106,6 @@ img {
 
 figcaption {
   font-size: .875rem;
-  font-family: 'Clicker Script', cursive;
+  font-family: 'Bungee', cursive;
   padding-top: 1rem;
 }
